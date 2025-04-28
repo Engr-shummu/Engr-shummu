@@ -12,7 +12,7 @@ With hands-on experience in building **chatbots**, **intelligent note generators
 
 🛠 Currently pursuing **B.E. in AI & Data Science Engineering** from Rizvi College of Engineering, Mumbai.  
 🏆 AWS Academy Graduate | Honours in AI/ML  
-🌍 Open to AI/ML internships, research collaborations, and cloud-related projects.
+🌍 Open to AI/ML Engineer positions , research collaborations, and Ai-related projects.
 
 ---
 
