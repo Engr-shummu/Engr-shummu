@@ -63,10 +63,3 @@ With hands-on experience in building **chatbots**, **intelligent note generators
 
 > *"Innovation is seeing what everybody has seen and thinking what nobody has thought."* 🚀
 me=Engr-shummu&color=blue)
-```
-It shows how many people viewed your profile.
-
----
-
-Would you also like me to make a **professional GitHub Profile README** with a sidebar, emojis, and animated sections (for even more attraction)? 🚀🌟  
-It can make your GitHub look like a mini-portfolio! 🎨✨  (I can generate it in a second if you want!)
